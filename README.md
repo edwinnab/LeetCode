@@ -7,5 +7,6 @@ LeetCode Challenges
 | Uncommon Words from Two Sentences | https://leetcode.com/problems/uncommon-words-from-two-sentences/ | Easy | ✔️ |
 | Edit Distance | https://leetcode.com/problems/edit-distance/ | Hard | ✔️ |
 | Palindrome Number | https://leetcode.com/problems/palindrome-number/ | Easy | ✔️ |
+| Roman to Integer | https://leetcode.com/problems/roman-to-integer/ | Easy | ✔️ |
 
 
