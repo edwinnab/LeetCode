@@ -9,6 +9,7 @@ LeetCode Challenges
 | Palindrome Number | https://leetcode.com/problems/palindrome-number/ | Easy | ✔️ |
 | Roman to Integer | https://leetcode.com/problems/roman-to-integer/ | Easy | ✔️ |
 | longest common Preffix | https://leetcode.com/problems/longest-common-prefix/ | Easy | ✔️ |
+| Valid Parentheses | https://leetcode.com/problems/valid-parentheses/ | Easy | ✔️ |
 
 
 
