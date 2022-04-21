@@ -12,6 +12,7 @@ LeetCode Challenges
 | Valid Parentheses | https://leetcode.com/problems/valid-parentheses/ | Easy | ✔️ |
 | Add Two numbers | https://leetcode.com/problems/add-two-numbers/submissions/ | Medium | ✔️ |
 | Longest Substring without repeating Characters | https://leetcode.com/problems/longest-substring-without-repeating-characters/ | Medium | ✔️ |
+| Longest Palindromic Substring | https://leetcode.com/problems/longest-palindromic-substring/ | Medium | ✔️ |
 
 
 
