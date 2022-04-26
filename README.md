@@ -13,6 +13,8 @@ LeetCode Challenges
 | Add Two numbers | https://leetcode.com/problems/add-two-numbers/submissions/ | Medium | ✔️ |
 | Longest Substring without repeating Characters | https://leetcode.com/problems/longest-substring-without-repeating-characters/ | Medium | ✔️ |
 | Longest Palindromic Substring | https://leetcode.com/problems/longest-palindromic-substring/ | Medium | ✔️ |
+| Reverse Integer | https://leetcode.com/problems/reverse-integer/ | Medium | ✔️ |
+
 
 
 
