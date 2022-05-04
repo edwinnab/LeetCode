@@ -14,6 +14,8 @@ LeetCode Challenges
 | Longest Substring without repeating Characters | https://leetcode.com/problems/longest-substring-without-repeating-characters/ | Medium | ✔️ |
 | Longest Palindromic Substring | https://leetcode.com/problems/longest-palindromic-substring/ | Medium | ✔️ |
 | Reverse Integer | https://leetcode.com/problems/reverse-integer/ | Medium | ✔️ |
+| String to Integer(atoi) | https://leetcode.com/problems/string-to-integer-atoi/ | Medium | ✔️ |
+
 
 
 
