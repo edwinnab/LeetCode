@@ -16,6 +16,7 @@ LeetCode Challenges
 | Reverse Integer | https://leetcode.com/problems/reverse-integer/ | Medium | ✔️ |
 | String to Integer(atoi) | https://leetcode.com/problems/string-to-integer-atoi/ | Medium | ✔️ |
 | container with Most Water | https://leetcode.com/problems/container-with-most-water/ | Medium | ✔️ |
+| merge two sorted lists | https://leetcode.com/problems/merge-two-sorted-lists/ | Easy | ✔️ |
 
 
 
